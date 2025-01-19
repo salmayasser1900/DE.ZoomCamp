@@ -1,6 +1,6 @@
 # DE.ZoomCamp
 
-Welcome to the **DE_Zoom_Camp** repository! 🚀
+**DE_Zoom_Camp** repository! 🚀
 
 This repository is dedicated to my hands-on practice and learning journey as I work through the **Data Engineering Zoomcamp**, a comprehensive program designed to build expertise in data engineering concepts, tools, and workflows.
 
